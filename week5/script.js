@@ -36,3 +36,5 @@ users.map(function(val){
         
         else {console.log(i + 'is odd')}
     }
+
+    console.log (`string one`)
